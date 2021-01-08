@@ -1,0 +1,2 @@
+# Exodus-Selfbot
+commands list
